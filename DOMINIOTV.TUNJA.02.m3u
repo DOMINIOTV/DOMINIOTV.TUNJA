@@ -60,6 +60,9 @@ https://bst.buin.cl/0.m3u8
 #EXTINF:-1 tvg-chno-"20",VILLA TV
 https://cdn4.hostlagarto.com:8081/static/villatv3/chunks.m3u8
 
+#EXTINF:-1 tvg-chno-"21",CITRICO TV
+https://cdn4.hostlagarto.com:8081/static/citricotv/chunks.m3u8
+
 
 
 
