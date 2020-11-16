@@ -15,4 +15,8 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"5",RETRO MOVIES
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/.m3u8
 
+#EXTINF:-1 tvg-chno-"6",AKI TV
+https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
+
+
 
