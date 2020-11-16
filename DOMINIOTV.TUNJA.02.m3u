@@ -28,7 +28,13 @@ https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/.m3u8
 http://newyorkstream.ddns.net:5854/telenord10/telenord10/.m3u8 
 
 #EXTINF:-1 tvg-chno-"10",TELENORD 8
-http://newyorkstream.ddns.net:5854/telenord8/telenord8/.m3u8  
+http://newyorkstream.ddns.net:5854/telenord8/telenord8/.m3u8 
+
+#EXTINF:-1 tvg-chno-"11",MICROVISION
+https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8 
+
+#EXTINF:-1 tvg-chno-"12",VALLEVISION
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8 
 
 
 
