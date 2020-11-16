@@ -51,8 +51,15 @@ https://ss6.domint.net:3028/ame_str/amecanal47/.m3u8
 #EXTINF:-1 tvg-chno-"17",CASCARA TV
 https://ss5.domint.net:3036/ctv_str/cascaratv/.m3u8
 
-#EXTINF:-1 tvg-chno-"18",TELEMICRO 5
-https://playback.akamaized.net/streams/27456795_8825585_lsicaxowjaohtbspbbt_1/media/27456795_8825585_lsicaxowjaohtbspbbt_1@628000p.m3u8?dw=14400&ts=1605556800&hdnts=exp=1605732343~acl=/streams/27456795_8825585_lsicaxowjaohtbspbbt_1/media*~hmac=ad955192c16187212e284dc6bfa35a09d08b0320f0175b6f736c327e1b2ae645 
+#EXTINF:-1 tvg-chno-"18",FUEGOTV
+https://5790d294af2dc.streamlock.net/8020/8020/.m3u8 
+
+#EXTINF:-1 tvg-chno-"19",BUIN
+https://bst.buin.cl/0.m3u8
+
+#EXTINF:-1 tvg-chno-"20",VILLA TV
+https://cdn4.hostlagarto.com:8081/static/villatv3/chunks.m3u8
+
 
 
 
