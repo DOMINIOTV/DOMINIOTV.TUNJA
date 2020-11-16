@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-chno-"1" ,FM 2
 
-https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/.m3u8
+#EXTINF:-1 tvg-chno-"1" tvg-logo="https://images.app.goo.gl/VnfvYKpu5JbUZAFCA",FM 2
 
 #EXTINF:-1 tvg-chno-"2" ,FM 1
 
