@@ -21,5 +21,9 @@ https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"7",TELEMAS
 https://www.webmedialive.org:1936/8024/8024/.m3u8
 
+#EXTINF:-1 tvg-chno-"8",FM
+https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/.m3u8  
+
+
 
 
