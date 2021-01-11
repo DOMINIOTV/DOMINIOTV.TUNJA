@@ -6,8 +6,11 @@ https://cloudflare.streamgato.us:3899/live/unikatvlive.m3u8
 #EXTINF:-1 tvg-chno-"2" ,CANANGATV
 https://ss4.domint.net:3024/cana_str/canangatv/.m3u8
 
-#EXTINF:-1 tvg-chno-"3" ,GLOBAL
-https://ss6.domint.net:3016/gtv_str/globalhd/.m3u8
+#EXTINF:-1 tvg-chno-"3" ,5TV
+http://www.coninfo.net:1935/tvcinco/live1/.m3u8
 
-#EXTINF:-1 tvg-chno-"4" ,SOLTELEVISION USA
-https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/.m3u8
+#EXTINF:-1 tvg-chno-"4" ,LA VOZ DE TUCUMAN
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/.m3u8
+
+#EXTINF:-1 tvg-chno-"4" ,UNICANAL
+http://45.55.127.106/live/unicanal_mid.m3u8
