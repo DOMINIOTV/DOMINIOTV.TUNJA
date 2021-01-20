@@ -3,17 +3,17 @@
 #EXTINF:-1 tvg-chno-"1" ,UNIK TV
 https://cloudflare.streamgato.us:3899/live/unikatvlive.m3u8
 
-#EXTINF:-1 tvg-chno-"2" ,CANANGATV
-https://ss4.domint.net:3024/cana_str/canangatv/.m3u8
+#EXTINF:-1 tvg-chno-"2" ,GUACAYA
+https://ss4.domint.net:3012/gtv_str/guacaratv/.m3u8
 
-#EXTINF:-1 tvg-chno-"3" ,5TV
-http://www.coninfo.net:1935/tvcinco/live1/.m3u8
+#EXTINF:-1 tvg-chno-"3" ,TELETUYA
+https://vcp.myplaytv.com/tlthd/tlthd/.m3u8
 
-#EXTINF:-1 tvg-chno-"4" ,LA VOZ DE TUCUMAN
-https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/.m3u8
+#EXTINF:-1 tvg-chno-"4" ,TELE 2 WEB
+https://inliveserver.com:1936/11516/11516/.m3u8
 
-#EXTINF:-1 tvg-chno-"4" ,UNICANAL
-http://45.55.127.106/live/unicanal_mid.m3u8
+#EXTINF:-1 tvg-chno-"4" ,QUISQUEYA LA BELLA TV
+https://ss6.domint.net:3064/btv_str/quisqueyatv/.m3u8
 
-#EXTINF:-1 tvg-chno-"4" ,RADIO AMERICA HD
-https://srv4.zcast.com.br/erickzambra/erickzambra/.m3u8
+#EXTINF:-1 tvg-chno-"4" ,TELESOL ARGENTINA
+https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8
